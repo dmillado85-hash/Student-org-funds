@@ -1,0 +1,10 @@
+{
+  "name": "NutriVision AI",
+  "description": "Smart food recognition, visual macro breakdown, nutrition tracking, personalized meal suggestions, and hydration logging.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
